@@ -65,3 +65,4 @@ function merlinsWar(weapon) {
     console.log(hero.wizard + " is ready for war with the " + weapon);
   }
 }
+merlinsWar(hero.weapon);
