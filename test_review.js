@@ -39,17 +39,3 @@ function epicBattle (wizard,enemy,power){
     console.log (wizard + " has slain the " + enemy + "!");
 }
 epicBattle (wizard, monster, power);
-
-AHHHHHHHHHHH
-
-SO MUCH CHANGES
-
-MUCH WOW
-
-VERY LOL
-
-HEHE XD
-
-RAWR XD
-
-I LIKE PIE
