@@ -39,3 +39,21 @@ function epicBattle (wizard,enemy,power){
     console.log (wizard + " has slain the " + enemy + "!");
 }
 epicBattle (wizard, monster, power);
+
+ajksdbnfjknmdvgbaengf
+asdfjhgbasdjkgfadf
+gagihasfrsdfnmondgf
+
+asdfhajksdnfjkasdf
+
+daffjnasdkjfnasndfjj
+asdvbashivnjk
+asdfbnjkasdnfjkn
+im swordInTheStone
+
+
+dsmafnasdkfnasdnfj swordInTheStonesdafnmaskdmf
+kanjkvnadf
+lanmdklfnmasdkfmlwmfqw
+
+Mr tan is a great guy
